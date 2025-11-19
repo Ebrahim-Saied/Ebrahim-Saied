@@ -42,7 +42,6 @@ Configuration files and profile repository showcasing my GitHub setup and develo
 - 🔗 **LinkedIn**: [Ibrahim Saied](https://www.linkedin.com/in/ibrahimsaied161)
 - 📧 **Email**: Feel free to reach out for collaborations or opportunities
 - 🌐 **Portfolio**: Check out my repositories to see my work
-- 🌐 **GitHub**: [github.com/Ebrahim-Saied](https://github.com/Ebrahim-Saied)
 
 ## 📈 GitHub Stats
 
