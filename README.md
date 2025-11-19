@@ -1,11 +1,12 @@
 # Hi there 👋 Welcome to my GitHub!
 
-I'm **Ibrahim Saied**, a passionate Full Stack Developer dedicated to building scalable, user-friendly web applications. I love exploring new technologies and contributing to open-source projects.
+I'm **Ibrahim Saied**, a passionate Full Stack Developer & IT Support Specialist dedicated to building scalable, user-friendly web applications. With expertise in network administration and CCNA certification, I combine development skills with IT infrastructure knowledge. I love exploring new technologies and contributing to open-source projects.
 
 ## 🚀 About Me
 
 - 💻 **Full Stack Developer** | Expertise in modern web development
-- 🔧 **Tech Stack**: JavaScript, React, Node.js, Python, and more
+- 🔧 **IT Support Specialist** | Network Administration & Infrastructure
+- 📜 **CCNA Certified** | Networking and Cisco technologies
 - 🌍 **Open Source Enthusiast** | Contributing to the developer community
 - 📚 **Continuous Learner** | Always exploring new technologies and best practices
 - 🤝 **Collaborative** | Passionate about building great solutions with teams
@@ -20,9 +21,16 @@ I'm **Ibrahim Saied**, a passionate Full Stack Developer dedicated to building s
 - Node.js, Express, Python
 - RESTful APIs, Database Design
 
+**IT & Networking:**
+- Network Administration & Configuration
+- CCNA - Routing & Switching
+- Cisco Technologies & Protocols
+- System Administration
+
 **Tools & Platforms:**
 - Git, GitHub, VS Code
-- Docker, Linux, Agile Methodologies
+- Docker, Linux, Windows Server
+- Agile Methodologies
 
 ## 📂 Featured Projects
 
@@ -34,6 +42,7 @@ Configuration files and profile repository showcasing my GitHub setup and develo
 - 🔗 **LinkedIn**: [Ibrahim Saied](https://www.linkedin.com/in/ibrahimsaied161)
 - 📧 **Email**: Feel free to reach out for collaborations or opportunities
 - 🌐 **Portfolio**: Check out my repositories to see my work
+- 🌐 **GitHub**: [github.com/Ebrahim-Saied](https://github.com/Ebrahim-Saied)
 
 ## 📈 GitHub Stats
 
@@ -43,7 +52,7 @@ Configuration files and profile repository showcasing my GitHub setup and develo
 ## 🎯 Current Focus
 
 - 🔭 Building innovative web applications
-- 🌱 Expanding skills in emerging technologies
+- 🌱 Expanding IT & networking expertise
 - 👯 Looking to collaborate on open-source projects
 - ⚡ Always ready for new challenges and opportunities
 
